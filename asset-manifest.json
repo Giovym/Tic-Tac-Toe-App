@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Tic-Tac-Toe-App/static/css/main.e6057a33.css",
+    "main.js": "/Tic-Tac-Toe-App/static/js/main.b959d7d6.js",
+    "index.html": "/Tic-Tac-Toe-App/index.html",
+    "static/media/icon-x-outline.svg": "/Tic-Tac-Toe-App/static/media/icon-x-outline.a591bdf22fd3be0addcb328bb85f4766.svg",
+    "static/media/logo.svg": "/Tic-Tac-Toe-App/static/media/logo.6a3d7c7d71604d60499698d758e297b4.svg",
+    "static/media/icon-x.svg": "/Tic-Tac-Toe-App/static/media/icon-x.0b42b1fa90bcc26b3e3f3e23513df1aa.svg",
+    "static/media/icon-o-outline.svg": "/Tic-Tac-Toe-App/static/media/icon-o-outline.44ebb2196ec7043f1e17c46090539957.svg",
+    "static/media/icon-o.svg": "/Tic-Tac-Toe-App/static/media/icon-o.7608cc08ec6b0a3d77ec15ebb57db3b2.svg",
+    "main.e6057a33.css.map": "/Tic-Tac-Toe-App/static/css/main.e6057a33.css.map",
+    "main.b959d7d6.js.map": "/Tic-Tac-Toe-App/static/js/main.b959d7d6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6057a33.css",
+    "static/js/main.b959d7d6.js"
+  ]
+}
